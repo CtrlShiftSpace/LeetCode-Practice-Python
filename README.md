@@ -2,4 +2,4 @@
 
 This repository contains my LeetCode problems solutions.
 
-紀錄LeetCode的解答方式
+紀錄LeetCode的練習過程與解答方式
